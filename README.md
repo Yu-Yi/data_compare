@@ -1,0 +1,2 @@
+# data_compare
+比较新版千企千面制度存储方式，redis缓存和mysql数据库中的数据是否一致
